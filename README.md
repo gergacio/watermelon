@@ -13,8 +13,12 @@
 - knowledge base
 
 ## Technologies Used
-- Tailwind CSS
 - Next.js
+- Tailwind CSS
+- shadcn/ui
+- Neon
+- stack auth
+
 
 
 ## Features

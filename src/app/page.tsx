@@ -13,14 +13,14 @@ export default function Home() {
         />
         <WikiCard
           title="Math 2"
-          author="Georgi Gospodinov"
+          author="Petar Petrov"
           date="Jan 2026"
           summary="The second part of the Math series."
           href="/wiki/2"
         />
         <WikiCard
           title="Math 3"
-          author="Georgi Gospodinov"
+          author="Stamen Stamenov"
           date="Jan 2026"
           summary="Georgi Gospodinov covers advanced mathematical concepts and their applications."
           href="/wiki/3"
