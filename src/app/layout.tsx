@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Wikimasters",
+  title: "Watermelon",
   description: "Learn how to build and scale Next.js apps with Brian Holt",
 };
 
